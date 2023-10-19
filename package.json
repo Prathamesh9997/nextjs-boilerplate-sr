@@ -1,6 +1,7 @@
 {
   "name": "nextjs-boilerplate-sr",
   "version": "0.1.0",
+  "bin": "./bin/cli.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
